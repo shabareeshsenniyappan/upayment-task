@@ -11,3 +11,7 @@
 In the project directory, you can run:
 
 `npm start`
+
+
+##  The page is live on for dem
+    https://upayments-task-sha.netlify.app/
