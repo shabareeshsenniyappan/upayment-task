@@ -1,1 +1,4 @@
-export const tokenId = process.env.REACT_APP_TOKENID;
+export const tokenId =
+  process.env.REACT_APP_TOKENID ||
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNoYWJhcmVlc2hzZW5uaXlhcHBhbkBnbWFpbC5jb20iLCJnaXRodWIiOiJodHRwczovL2dpdGh1Yi5jb20vc2hhYmFyZWVzaHNlbm5peWFwcGFuIiwiaWF0IjoxNjYyNDYwNjgwLCJleHAiOjE2NjI4OTI2ODB9.PiapsN-gidDfHn3KfuOXllRr7r1Yd4v-jPGl6DYd2Ow";
+export const email = "shabareeshsenniyappan@gmail.com";
